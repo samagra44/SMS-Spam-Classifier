@@ -38,3 +38,10 @@ The model training process consists of the following steps:
 
 # Contributing
 Contributions to this project are highly encouraged! Feel free to open issues and submit pull requests for enhancements, bug fixes, or additional features.
+
+# Image
+
+![test](https://github.com/samagra44/SMS-Spam-Classifier/assets/77968722/cfd0eb8e-3ef9-4dc4-9dc8-a8efdd60b15f)
+
+
+
