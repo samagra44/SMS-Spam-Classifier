@@ -25,7 +25,7 @@ source venv/bin/activate
 # Install the required dependencies using pip.
 pip install -r requirements.txt
 
-The dataset used for training and evaluation is sourced from "https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset".This dataset contains a collection of labeled email messages, where each email is marked as spam or ham.
+The dataset used for training and evaluation is sourced from "https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset" . This dataset contains a collection of labeled email messages, where each email is marked as spam or ham.
 
 # Model Training
 The model training process consists of the following steps:
